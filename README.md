@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋 I am Pramesh Gautam
+- 🔭 I’m currently working as ML Engineer at Fusemachines
+- 📫 How to reach me: [twitter](https://twitter.com/prameshgtm)
+- :pencil: I try writing at [raamza](https://raamza.com)
 <!--
 **prameshgautam/prameshgautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
