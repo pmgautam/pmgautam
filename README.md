@@ -2,7 +2,7 @@
 - 🔭 I’m currently working as ML Engineer at Fusemachines
 - 📫 How to reach me: [twitter](https://twitter.com/prameshgtm)
 - :pencil: [personal blog](https://pmgautam.com)
-- :not maintained: [raamza](https://raamza.com)
+- pencil: not maintained: [raamza](https://raamza.com)
 <!--
 **prameshgautam/prameshgautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
