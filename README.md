@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Pramesh Gautam
 - 🔭 I’m currently working as ML Engineer at Fusemachines
-- 📫 I'm can be reached on [twitter](https://twitter.com/pmgautam_) or [linkedin](https://www.linkedin.com/in/gautampramesh/)
+- 📫 I can be reached on [twitter](https://twitter.com/pmgautam_) or [linkedin](https://www.linkedin.com/in/gautampramesh/)
 - :pencil: [personal blog](https://pmgautam.com)
 - :pencil: not maintained: [raamza](https://ramzavil.wordpress.com)
 <!--
